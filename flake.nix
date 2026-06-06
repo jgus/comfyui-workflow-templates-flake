@@ -22,6 +22,5 @@
         extra = { dontCheckRuntimeDeps = true; };
       };
       pin = import ./pin.nix;
-      branches = false;
     };
 }
