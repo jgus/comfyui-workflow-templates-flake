@@ -1,5 +1,194 @@
 {
   "nodes": {
+    "comfyui-workflow-templates-core": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788008378,
+        "narHash": "sha256-i0OWEMn1DjdwF/ixwv9zFo6A7+XvqhRvDOkwPeguEPU=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-core-flake",
+        "rev": "3004d5b57ad1e6ae62999ae2d54713c4ccc73fd8",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.3.263",
+        "repo": "comfyui-workflow-templates-core-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-json": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788030206,
+        "narHash": "sha256-jp9t19xT9zcS0oKywz8mr8SC4w+3POKmDBVjLfCgZJg=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-json-flake",
+        "rev": "24b46606b032b7e9336cf1259e8a4273f7ecd35d",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.1.61",
+        "repo": "comfyui-workflow-templates-json-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-media-api": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788008903,
+        "narHash": "sha256-f06AJv+cmu86RqWENkagE4lJjGFJBg0ziJrfyuSRY8Y=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-media-api-flake",
+        "rev": "1ba01e6abc09be6c67f96b656bd85598baea7d9f",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.3.81",
+        "repo": "comfyui-workflow-templates-media-api-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-media-assets-01": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788030197,
+        "narHash": "sha256-7/WEQ2yNIKiVJOVVf35j1ViR3AAR9+JOHO2xzWVNT2U=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-media-assets-01-flake",
+        "rev": "794cc06633099131b7fce6e42a3c5a2ea383bb36",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.1.36",
+        "repo": "comfyui-workflow-templates-media-assets-01-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-media-image": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788008055,
+        "narHash": "sha256-lXfz9GS0D9NjpzWEkoOX81ARIqYWs04Ie2/bU9s2+6o=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-media-image-flake",
+        "rev": "20bbc70ce450e853fd4376b8782dd4c3a0744e48",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.3.157",
+        "repo": "comfyui-workflow-templates-media-image-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-media-other": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788008029,
+        "narHash": "sha256-1NrkrbfzjnH7mAZNkjiIXTKzkVtxf5gnXe3q7k/AJhM=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-media-other-flake",
+        "rev": "093aaa38ea8a5a8da5654244b325f9bc6d6c16a1",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.3.226",
+        "repo": "comfyui-workflow-templates-media-other-flake",
+        "type": "github"
+      }
+    },
+    "comfyui-workflow-templates-media-video": {
+      "inputs": {
+        "flake-lib": [
+          "flake-lib"
+        ],
+        "flake-utils": [
+          "flake-utils"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1788008433,
+        "narHash": "sha256-4rqswZJhJ0yiVoIENom/GRkcI/frqB57q/Nu+wOQ/zs=",
+        "owner": "jgus",
+        "repo": "comfyui-workflow-templates-media-video-flake",
+        "rev": "f01b983ba284beb4e0fe88d6c8d899f6d0556039",
+        "type": "github"
+      },
+      "original": {
+        "owner": "jgus",
+        "ref": "v0.3.98",
+        "repo": "comfyui-workflow-templates-media-video-flake",
+        "type": "github"
+      }
+    },
     "flake-lib": {
       "inputs": {
         "flake-utils": [
@@ -10,11 +199,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1787959529,
-        "narHash": "sha256-7zbjVfZwJQZE5Aqf7xCVljrDvFQJjQsTGO3VtGMdISE=",
+        "lastModified": 1788017105,
+        "narHash": "sha256-LKdLqhq1CZ2/uXLs5U4mtkpRInTv5jy5jIlrXSrq/ts=",
         "owner": "jgus",
         "repo": "flake-lib",
-        "rev": "16c45f7e68829c3291b28203684f168b7dd284dc",
+        "rev": "df70ee32f395e604562243f2f4bcf51bec48d83d",
         "type": "github"
       },
       "original": {
@@ -44,11 +233,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1787814960,
-        "narHash": "sha256-PYZq1qzCJXC2zGI0mH07vrZBsw6DRBAOX0jN1pPtqOQ=",
+        "lastModified": 1787874478,
+        "narHash": "sha256-ubWQiwkhIql/lYwnfK55yKHfAkTBXie2L4iChGNHfI0=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "c27cdad491a991b11ed731760aa2ef8db0cb0410",
+        "rev": "7d1a7c21a4c00ea653fc7ed5c083d261340f185f",
         "type": "github"
       },
       "original": {
@@ -60,6 +249,13 @@
     },
     "root": {
       "inputs": {
+        "comfyui-workflow-templates-core": "comfyui-workflow-templates-core",
+        "comfyui-workflow-templates-json": "comfyui-workflow-templates-json",
+        "comfyui-workflow-templates-media-api": "comfyui-workflow-templates-media-api",
+        "comfyui-workflow-templates-media-assets-01": "comfyui-workflow-templates-media-assets-01",
+        "comfyui-workflow-templates-media-image": "comfyui-workflow-templates-media-image",
+        "comfyui-workflow-templates-media-other": "comfyui-workflow-templates-media-other",
+        "comfyui-workflow-templates-media-video": "comfyui-workflow-templates-media-video",
         "flake-lib": "flake-lib",
         "flake-utils": "flake-utils",
         "nixpkgs": "nixpkgs"
