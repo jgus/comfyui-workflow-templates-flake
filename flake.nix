@@ -10,13 +10,13 @@
       inputs.flake-utils.follows = "flake-utils";
     };
     comfyui-workflow-templates-core = {
-      url = "github:jgus/comfyui-workflow-templates-core-flake/v0.3.326";
+      url = "github:jgus/comfyui-workflow-templates-core-flake/v0.3.324";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
     };
     comfyui-workflow-templates-json = {
-      url = "github:jgus/comfyui-workflow-templates-json-flake/v0.1.61";
+      url = "github:jgus/comfyui-workflow-templates-json-flake/v0.1.59";
       inputs.nixpkgs.follows = "nixpkgs";
       inputs.flake-utils.follows = "flake-utils";
       inputs.flake-lib.follows = "flake-lib";
