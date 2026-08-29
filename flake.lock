@@ -22,7 +22,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.3.263",
         "repo": "comfyui-workflow-templates-core-flake",
         "type": "github"
       }
@@ -49,7 +48,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.1.61",
         "repo": "comfyui-workflow-templates-json-flake",
         "type": "github"
       }
@@ -76,7 +74,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.3.81",
         "repo": "comfyui-workflow-templates-media-api-flake",
         "type": "github"
       }
@@ -103,7 +100,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.1.36",
         "repo": "comfyui-workflow-templates-media-assets-01-flake",
         "type": "github"
       }
@@ -130,7 +126,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.3.157",
         "repo": "comfyui-workflow-templates-media-image-flake",
         "type": "github"
       }
@@ -157,7 +152,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.3.226",
         "repo": "comfyui-workflow-templates-media-other-flake",
         "type": "github"
       }
@@ -184,7 +178,6 @@
       },
       "original": {
         "owner": "jgus",
-        "ref": "v0.3.98",
         "repo": "comfyui-workflow-templates-media-video-flake",
         "type": "github"
       }
@@ -199,11 +192,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1788017105,
-        "narHash": "sha256-LKdLqhq1CZ2/uXLs5U4mtkpRInTv5jy5jIlrXSrq/ts=",
+        "lastModified": 1788033723,
+        "narHash": "sha256-gFkBFDMnq6tVlRxJMd7669h8EXvTejql8KYw7JJR+v0=",
         "owner": "jgus",
         "repo": "flake-lib",
-        "rev": "df70ee32f395e604562243f2f4bcf51bec48d83d",
+        "rev": "3b1d5f92b60f1403dd5d054ddfb8bad0d2b1135e",
         "type": "github"
       },
       "original": {
