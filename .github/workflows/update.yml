@@ -9,7 +9,7 @@ concurrency:
   group: update
   cancel-in-progress: false
 env:
-  MINIMUM_TRACKING_VERSION: "0.9.91"
+  MINIMUM_TRACKING_VERSION: "0.11.48"
 jobs:
   update:
     runs-on: ubuntu-latest
