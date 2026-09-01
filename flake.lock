@@ -143,11 +143,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1788186730,
-        "narHash": "sha256-SaMnptXT0pVQYajf4IRu9AZ3Bi+0IB29G//JPquDbEU=",
+        "lastModified": 1788264643,
+        "narHash": "sha256-cDFO6ZAUQ4tomI0bgGgcP++Bgx4AFqRiRwsMoH3qhgs=",
         "owner": "jgus",
         "repo": "comfyui-workflow-templates-media-other-flake",
-        "rev": "acd56cc358070b381fcb40ca0f2635f62cfbf613",
+        "rev": "6c488de365fa9add21a900cf7bdca40da44a8f20",
         "type": "github"
       },
       "original": {
